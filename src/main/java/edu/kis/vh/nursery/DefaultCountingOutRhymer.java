@@ -9,6 +9,7 @@ public class DefaultCountingOutRhymer {
     private final int[] numbers = new int[CAPACITY];
     private int total = EMPTY_VALUE;
 
+    // TODO: Metoda nie jest używana, rozważyć usunięcie jej lub zmiane jej działania
     public int getTotal() {
         return total;
     }
