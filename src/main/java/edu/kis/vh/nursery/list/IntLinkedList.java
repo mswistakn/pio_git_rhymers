@@ -35,6 +35,8 @@ public class IntLinkedList {
      * Zwraca czy lista jest pełna
      * @return true jeżeli pełna, false jeżeli nie
      */
+
+    // TODO: W zaimplementowanej strukturze listy funkcja zawsze zwraca false - jest niepotrzebna
     public boolean isFull() {
         return false;
     }
