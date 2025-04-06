@@ -9,7 +9,7 @@ class RhymersDemo {
         RhymersFactory factory = new DefaultRhymersFactory();
         testRhymers(factory);
 
-
+        // 15. Projekt działa poprawnie, testy jednostkowe przechodzą bez błedów
     }
 
     public static void testRhymers(RhymersFactory factory) {
